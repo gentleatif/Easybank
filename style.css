@@ -1,0 +1,178 @@
+.head1 {
+  display: inline-block;
+  padding: 0px 45px 0px 45px;
+}
+
+.pas1 {
+  display: inline-block;
+  padding: 0px 10px 0px 10px;
+}
+.div2 {
+  background-color: #f9fcfb;
+}
+.div1 {
+  background-color: #ffffff;
+}
+
+
+
+
+.div2ka1 {
+  display: inline-block;
+  width: 350px;
+  margin-top: 120px;
+}
+.div2ka2 {
+  display: inline-block;
+
+}
+
+.mobile-back-img {
+  width: 500px;
+  position: absolute;
+  top: 60px;
+  right: 0px;
+
+}
+.mobile-img {
+  display: inline-block;
+  width: 400px;
+  position: absolute;
+  top: 80px;
+  right: 20px;
+}
+
+
+
+.btn {
+  background: Lime;
+  background-image: -webkit-linear-gradient(top, Lime, #2980b9);
+  background-image: -moz-linear-gradient(top, Lime, #2980b9);
+  background-image: -ms-linear-gradient(top, Lime, #2980b9);
+  background-image: -o-linear-gradient(top, Lime, #2980b9);
+  background-image: linear-gradient(tobottom,Lime, #2980b9);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: Green;
+  background-image: -webkit-linear-gradient(top, Green, #3498db);
+  background-image: -moz-linear-gradient(top, Green, #3498db);
+  background-image: -ms-linear-gradient(top, Green, #3498db);
+  background-image: -o-linear-gradient(top, Green, #3498db);
+  background-image: linear-gradient(tobottom,Green, #3498db);
+  text-decoration: none;
+}
+.div3 {
+  background-color: #f4f6ff;
+  width: 1000px;
+  height: 600px;
+}
+.div3line1 {
+  position: relative;
+  top: 75px;
+
+
+}
+.pas2 {
+  width: 550px;
+}
+.span3 {
+  display: inline-block;
+  padding-top: 150px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+.pas3 {
+  width: 170px;
+}
+.ltst {
+  padding-top: 35px;
+  padding-bottom: 0px;
+}
+
+.div4 {
+  width: 1000px;
+  height: 750px;
+}
+.div4h {
+  width: 180px;
+
+
+}
+.pas4 {
+  width: 170px;
+}
+.span4ka1 {
+  display: inline-block;
+  padding-left: 30px;
+  padding-right: 30px;
+  position: relative;
+  top: 38px;
+}
+.span4ka2 {
+  display: inline-block;
+  padding-left: 30px;
+  padding-right: 30px;
+  position: relative;
+  top: 0px;
+}
+.span4ka3 {
+  display: inline-block;
+  padding-left: 30px;
+  padding-right: 30px;
+  position: relative;
+  top: 18px;
+
+}
+.img4 {
+  width: 170px;
+  height: 170px;
+}
+.bottom-container {
+  margin: 0px;
+  padding: 30px;
+  background-color: #776d8a;
+}
+.btnlast {
+  position: absolute;
+  right: 80px;
+}
+
+.socialmedia {
+  display: block;
+  padding-top: 90px;
+}
+.imgsoc {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.ls1 {
+  display: inline-block;
+
+}
+.ls2 {
+  display: inline-block;
+  position: absolute;
+  left: 300px;
+}
+.ls3 {
+  display: inline-block;
+  position: absolute;
+  left: 500px;
+}
+.last-p {
+  padding-top: 30px;
+}
+.ls4 {
+  padding-top: 30px;
+  position: absolute;
+  left: 700px;
+}
